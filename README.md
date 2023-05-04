@@ -12,5 +12,4 @@ Basic for auth form
 <ul>
   <li>Login Form</li>
   <li>Registration Form</i>
-  <li>Forgot Password Form</i>
 </ul>
